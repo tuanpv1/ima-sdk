@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

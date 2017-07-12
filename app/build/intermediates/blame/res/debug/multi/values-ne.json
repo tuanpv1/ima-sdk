@@ -1,0 +1,577 @@
+[
+    {
+        "outputFile": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 82,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 237,
+                        "endColumn": 78,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 137,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\fd010a8d516a63574dc3e1f6413bcee31c152280\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 288,
+                        "endColumn": 137,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 138,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\fd010a8d516a63574dc3e1f6413bcee31c152280\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 426,
+                        "endColumn": 138,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 104,
+                    "endOffset": 565
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\fd010a8d516a63574dc3e1f6413bcee31c152280\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 565,
+                        "endColumn": 100,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 570,
+                    "endColumn": 116,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 112,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 189,
+                    "endOffset": 872
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 396,
+                        "endColumn": 189,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 877,
+                    "endColumn": 135,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 586,
+                        "endColumn": 131,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 118,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 718,
+                        "endColumn": 114,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endColumn": 229,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 833,
+                        "endColumn": 229,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endColumn": 137,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1063,
+                        "endColumn": 133,
+                        "endOffset": 1196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1500,
+                    "endColumn": 133,
+                    "endOffset": 1629
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1197,
+                        "endColumn": 129,
+                        "endOffset": 1326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1634,
+                    "endColumn": 222,
+                    "endOffset": 1852
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\059d74479717af91a5dcdc1c8dba7041e85dcb7b\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 222,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1857,
+                    "endColumn": 238,
+                    "endOffset": 2091
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1327,
+                        "endColumn": 238,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2096,
+                    "endColumn": 119,
+                    "endOffset": 2211
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1566,
+                        "endColumn": 115,
+                        "endOffset": 1681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2216,
+                    "endColumn": 194,
+                    "endOffset": 2406
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1682,
+                        "endColumn": 194,
+                        "endOffset": 1876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2411,
+                    "endColumn": 138,
+                    "endOffset": 2545
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1877,
+                        "endColumn": 134,
+                        "endOffset": 2011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2550,
+                    "endColumn": 206,
+                    "endOffset": 2752
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 2012,
+                        "endColumn": 206,
+                        "endOffset": 2218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2757,
+                    "endColumn": 181,
+                    "endOffset": 2934
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2219,
+                        "endColumn": 177,
+                        "endOffset": 2396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2939,
+                    "endColumn": 95,
+                    "endOffset": 3030
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2397,
+                        "endColumn": 91,
+                        "endOffset": 2488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3035,
+                    "endColumn": 101,
+                    "endOffset": 3132
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2489,
+                        "endColumn": 97,
+                        "endOffset": 2586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3137,
+                    "endColumn": 120,
+                    "endOffset": 3253
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2587,
+                        "endColumn": 116,
+                        "endOffset": 2703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3258,
+                    "endColumn": 134,
+                    "endOffset": 3388
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 316,
+                        "endColumn": 130,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3393,
+                    "endColumn": 116,
+                    "endOffset": 3505
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 447,
+                        "endColumn": 112,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3510,
+                    "endColumn": 109,
+                    "endOffset": 3615
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 560,
+                        "endColumn": 105,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3620,
+                    "endColumn": 109,
+                    "endOffset": 3725
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 666,
+                        "endColumn": 105,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3730,
+                    "endColumn": 92,
+                    "endOffset": 3818
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 772,
+                        "endColumn": 88,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3823,
+                    "endColumn": 98,
+                    "endOffset": 3917
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 861,
+                        "endColumn": 94,
+                        "endOffset": 955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3922,
+                    "endColumn": 84,
+                    "endOffset": 4002
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 956,
+                        "endColumn": 80,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4007,
+                    "endColumn": 143,
+                    "endOffset": 4146
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1037,
+                        "endColumn": 139,
+                        "endOffset": 1176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4151,
+                    "endColumn": 103,
+                    "endOffset": 4250
+                },
+                "from": {
+                    "file": "C:\\Users\\TuanPV\\.android\\build-cache\\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1177,
+                        "endColumn": 99,
+                        "endOffset": 1276
+                    }
+                }
+            }
+        ]
+    }
+]

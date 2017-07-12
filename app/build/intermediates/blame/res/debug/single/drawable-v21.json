@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\TuanPV\\.android\\build-cache\\fc1156a23130e3b13cd4ee3eb363e369569e7084\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

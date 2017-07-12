@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:3:5-72
+		INJECTED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:7:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] C:\Users\TuanPV\.android\build-cache\e61a5dd2d4d54b1c8bb7ec32ed5c5f648828e7e7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.4] C:\Users\TuanPV\.android\build-cache\ed0f57ad45166a37092430268ca12328a354f5db\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-cast:10.2.4] C:\Users\TuanPV\.android\build-cache\fd010a8d516a63574dc3e1f6413bcee31c152280\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\TuanPV\.android\build-cache\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\TuanPV\.android\build-cache\8dd3f43f8eea4434833a991f792a4a092a177c6b\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\TuanPV\.android\build-cache\059d74479717af91a5dcdc1c8dba7041e85dcb7b\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\TuanPV\.android\build-cache\29b2be54b4cef277d61520cd94d20213687e2fb7\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\TuanPV\.android\build-cache\4cb983de9a58009e58e875f6afae3e743d7d964d\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\TuanPV\.android\build-cache\fc1156a23130e3b13cd4ee3eb363e369569e7084\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\TuanPV\.android\build-cache\b138aeeb7edd91767e74563308ac868f5697b40f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\TuanPV\.android\build-cache\e7124e36292ae2d9fa0a25cd6800b83cab666461\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\TuanPV\.android\build-cache\0a3c6161969d57e61d8d6700ea09b80b99b1c9d4\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:12:9-40
+meta-data#com.google.android.gms.version
+ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\TuanPV\.android\build-cache\059d74479717af91a5dcdc1c8dba7041e85dcb7b\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:15:13-58
+activity#com.google.ads.interactivemedia.v3.samples.videoplayerapp.MyActivity
+ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:20:13-122
+	android:name
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:18:13-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-ads:10.2.4] C:\Users\TuanPV\.android\build-cache\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] C:\Users\TuanPV\.android\build-cache\e61a5dd2d4d54b1c8bb7ec32ed5c5f648828e7e7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.4] C:\Users\TuanPV\.android\build-cache\ed0f57ad45166a37092430268ca12328a354f5db\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.4] C:\Users\TuanPV\.android\build-cache\fd010a8d516a63574dc3e1f6413bcee31c152280\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\TuanPV\.android\build-cache\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\TuanPV\.android\build-cache\8dd3f43f8eea4434833a991f792a4a092a177c6b\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\TuanPV\.android\build-cache\059d74479717af91a5dcdc1c8dba7041e85dcb7b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\TuanPV\.android\build-cache\29b2be54b4cef277d61520cd94d20213687e2fb7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\TuanPV\.android\build-cache\4cb983de9a58009e58e875f6afae3e743d7d964d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\TuanPV\.android\build-cache\fc1156a23130e3b13cd4ee3eb363e369569e7084\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\TuanPV\.android\build-cache\b138aeeb7edd91767e74563308ac868f5697b40f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\TuanPV\.android\build-cache\e7124e36292ae2d9fa0a25cd6800b83cab666461\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\TuanPV\.android\build-cache\0a3c6161969d57e61d8d6700ea09b80b99b1c9d4\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\TuanPV\.android\build-cache\fc1156a23130e3b13cd4ee3eb363e369569e7084\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\android_app\AdvancedExample\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\TuanPV\.android\build-cache\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\TuanPV\.android\build-cache\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\TuanPV\.android\build-cache\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\TuanPV\.android\build-cache\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\output\AndroidManifest.xml:19:19-85

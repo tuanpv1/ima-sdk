@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\code\\android_app\\AdvancedExample\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\code\\android_app\\AdvancedExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_play_over_video.png",
+        "source": "D:\\code\\android_app\\AdvancedExample\\app\\src\\main\\res\\drawable-mdpi\\ic_action_play_over_video.png"
+    }
+]

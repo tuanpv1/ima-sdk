@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\ed0f57ad45166a37092430268ca12328a354f5db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0ecda4a4e2cb2083364257bbbd93e8bcba29eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\059d74479717af91a5dcdc1c8dba7041e85dcb7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e17affe5bb0aa2d3470f0a19f49ecc643fc15ab9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_daea274e78c1bd32609a7ca1c71d398bb997d2f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\67c6f16abea99e8946ba7bf00deef8e2b8f543e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_daea274e78c1bd32609a7ca1c71d398bb997d2f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\fc1156a23130e3b13cd4ee3eb363e369569e7084\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_90a24ff064c3cf7c42988fbde5b351a2c6ad77e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\e61a5dd2d4d54b1c8bb7ec32ed5c5f648828e7e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_1bee15ec87c84d8c429db76a68ef6c837f0118de.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\b138aeeb7edd91767e74563308ac868f5697b40f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb5180e82c7c2a2215f8589d01c38b88371d06fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\ed0f57ad45166a37092430268ca12328a354f5db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_b0ecda4a4e2cb2083364257bbbd93e8bcba29eeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\fd010a8d516a63574dc3e1f6413bcee31c152280\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_a732f74f07e7fa3870b641d56e0b22b13775e9d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\b138aeeb7edd91767e74563308ac868f5697b40f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_cb5180e82c7c2a2215f8589d01c38b88371d06fe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\fc1156a23130e3b13cd4ee3eb363e369569e7084\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90a24ff064c3cf7c42988fbde5b351a2c6ad77e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\fd010a8d516a63574dc3e1f6413bcee31c152280\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a732f74f07e7fa3870b641d56e0b22b13775e9d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\059d74479717af91a5dcdc1c8dba7041e85dcb7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_e17affe5bb0aa2d3470f0a19f49ecc643fc15ab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_21f0eb24563940040c708c1614852cec1f342076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\8dd3f43f8eea4434833a991f792a4a092a177c6b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_84398a57517ad0af13863e2a63109052b3d314a7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\a98a429e0e2f04ab4b66190a901be3bfc763bc30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21f0eb24563940040c708c1614852cec1f342076\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\8dd3f43f8eea4434833a991f792a4a092a177c6b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84398a57517ad0af13863e2a63109052b3d314a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\4cb983de9a58009e58e875f6afae3e743d7d964d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_b3b047b8d04924960b11235828935bf534cc994a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\4cb983de9a58009e58e875f6afae3e743d7d964d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3b047b8d04924960b11235828935bf534cc994a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_772ce7159980b847e92a02f445638ee90c8cd24e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\e1155ee7fa1c1deac6e3bd8444d005c27254ddd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_772ce7159980b847e92a02f445638ee90c8cd24e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\e7124e36292ae2d9fa0a25cd6800b83cab666461\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e07cf9cc17cf61f1e0672db3dafd75c6ac479135\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\29b2be54b4cef277d61520cd94d20213687e2fb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_730dd569bd0612ec009c432630d29dfc75c9c2e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\0a3c6161969d57e61d8d6700ea09b80b99b1c9d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_614c6a4b4cde23d9de5a0304518118e808a1bed7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\e7124e36292ae2d9fa0a25cd6800b83cab666461\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_e07cf9cc17cf61f1e0672db3dafd75c6ac479135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\29b2be54b4cef277d61520cd94d20213687e2fb7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_730dd569bd0612ec009c432630d29dfc75c9c2e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\0a3c6161969d57e61d8d6700ea09b80b99b1c9d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\classes_614c6a4b4cde23d9de5a0304518118e808a1bed7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\android_app\AdvancedExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4c0aec9f29855b0c9a5d12a3015a28d2adb16573\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\android_app\AdvancedExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8dd70f83eb7b640c3c06a3a60c6b68cddaaa0a4">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_01285b00d4db6e2d7f9d5b9786cbf854dce26221\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\0a3c6161969d57e61d8d6700ea09b80b99b1c9d4\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_b1a7cbcd42b9d537840d91092a9dca5d2aa4d838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.gradle\caches\modules-2\files-2.1\com.google.ads.interactivemedia.v3\interactivemedia\3.7.2\8f5b08b58e368d4dc72fc86174cbc6a9a617128\interactivemedia-3.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08f5b08b58e368d4dc72fc86174cbc6a9a617128">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\interactivemedia-3.7.2_65f1558bd7219e9a706693d6293d27b5b09a6e3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_cf9644741e5bd5a761fbc277c9a143f0721b6762\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\e61a5dd2d4d54b1c8bb7ec32ed5c5f648828e7e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bee15ec87c84d8c429db76a68ef6c837f0118de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.gradle\caches\modules-2\files-2.1\com.google.ads.interactivemedia.v3\interactivemedia\3.7.2\8f5b08b58e368d4dc72fc86174cbc6a9a617128\interactivemedia-3.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08f5b08b58e368d4dc72fc86174cbc6a9a617128">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\interactivemedia-3.7.2_65f1558bd7219e9a706693d6293d27b5b09a6e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\29b2be54b4cef277d61520cd94d20213687e2fb7\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_319137c8c0848a683c1b9316315e40ac56e40d3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TuanPV\.android\build-cache\0a3c6161969d57e61d8d6700ea09b80b99b1c9d4\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_b1a7cbcd42b9d537840d91092a9dca5d2aa4d838\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_cf9644741e5bd5a761fbc277c9a143f0721b6762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TuanPV\.android\build-cache\29b2be54b4cef277d61520cd94d20213687e2fb7\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\code\android_app\AdvancedExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_319137c8c0848a683c1b9316315e40ac56e40d3b.jar" />
+    </item>
+
+</items>
